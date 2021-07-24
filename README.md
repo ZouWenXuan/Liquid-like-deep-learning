@@ -1,6 +1,6 @@
 # Liquid-like-deep-learning
 
-Code for paper [Data-driven effective model shows a liquid-like deep learning]([[2007.08093\] Data-driven effective model shows a liquid-like deep learning (arxiv.org)](https://arxiv.org/abs/2007.08093))(arXiv:2007.08093). Here, we propose a statistical mechanics framework by directly building a least structured model of the
+Code for paper [Data-driven effective model shows a liquid-like deep learning](https://arxiv.org/abs/2007.08093)(arXiv:2007.08093). Here, we propose a statistical mechanics framework by directly building a least structured model of the
 high-dimensional weight space, considering realistic structured data, stochastic gradient descent
 algorithms, and the computational depth of the network parametrized by weight parameters.
 
