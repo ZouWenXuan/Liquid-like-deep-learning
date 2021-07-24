@@ -22,8 +22,8 @@ Python 3.8.5
 
 - The model folder covers the most important models in this article, including neural networks (continuous and discrete), inverse Ising problem, and entropy landscape analysis;
 - The data folder contains some important data in this article, including the reduced dimensionality version of the MNIST data set, the moments of different sampled data, and the Ising model parameters obtained by inverse Ising algorithms;
-- The task folder covers the implementation code of all the experiments in the paper and the data closely related to this task, besides that already in the data folder, where,
-  - You need to modify the data (model) path to use these codes;
+- The task folder covers the implementation code of all the tasks in the paper and the data closely related to these tasks, besides that already in the data folder, where,
+  - You need to modify the data (or model) path to use these codes;
   - In the task of Pseudo-likelihood fitting, you need to download the software package in https://web.stanford.edu/~boyd/l1_logreg/ to realize the task with L1 regularization;
   - The sampled data is too large to upload, please contact me if you need it;
 - Please contact me if you have any questions about this code. My email: zouwx5@mail2.sysu.edu.cn
